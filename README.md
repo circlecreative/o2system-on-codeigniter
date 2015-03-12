@@ -1,4 +1,4 @@
-### O2System on CodeIgniter Framework (Third-Party)
+### O2System on CodeIgniter Framework (Third-Party) for CodeIgniter 2.2
 Bring awesomeness of O2System Core Framework to your CodeIgniter project. [CodeIgniter Framework][11] was created by [EllisLab, Inc][12], and is now a project of the [British Columbia Institute of Technology][13].
 
 [CodeIgniter Framework][11] is the most popular Open Source PHP Framework and has very good documentations, forum, community, and contributors. [CodeIgniter Framework][11] has unique concept with Super Global Object and Get Instance.
